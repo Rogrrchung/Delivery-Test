@@ -16,7 +16,7 @@ public class Delivery {
     public static void main(String[] args) {
        System.out.print("Happy");
        System.out.print("Birthday");
-        System.out.println("Success");
+        System.out.println("Successs");
     }
     
 }
