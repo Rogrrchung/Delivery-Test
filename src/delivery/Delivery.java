@@ -17,7 +17,7 @@ public class Delivery {
        System.out.print("Happy");
        System.out.print("Birthday");
         System.out.println("Success");
-         System.out.println("Double Success");
+         System.out.println("Double Successs");
     }
     
 }
